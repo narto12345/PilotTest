@@ -1,0 +1,4 @@
+controller\Controller.class
+model\ConnectionDB.class
+model\PersonDAO.class
+model\PersonDTO.class
