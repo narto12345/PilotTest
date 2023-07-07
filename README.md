@@ -1,5 +1,5 @@
 # PilotTest
-Este proyecto es un simple CRUD, fue diseñado con el patrón de diseño MVC, y está elaborado con la siguientes
+Este proyecto es un simple CRUD, fue diseñado con el patrón de diseño MVC, y está elaborado con las siguientes
 tecnologías:
 
 <ul>
